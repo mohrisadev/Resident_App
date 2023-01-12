@@ -1,0 +1,25 @@
+
+1.  https://devapi.mykommunity.in/v1/profile-photo/
+   Getting Multiple rows, which one to use to bind the profile image.
+
+2. There is no Notification api from server
+
+3. No UI screen for Notification Settings for that button.
+
+4. Not functioning the Use your location (need to add reference to    geolocation). If city not available, display message "Comming soon"
+
+5. Add bottom dots to scroolwidgets on home page .. for adviertisements
+
+6. Enable Preapprove button
+
+7. When use clicks on add dialy help, it should redirect to daily help screen
+  (which is under household section)
+
+8. In activties, missing the logo url and Entiry time and Status
+   for Delivery
+
+9. for cab missing the trip datetime along with logo url
+
+10. for Visitors, scheduled entry tim need to update
+
+11. 

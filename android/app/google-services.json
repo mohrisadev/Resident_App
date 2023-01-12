@@ -1,0 +1,133 @@
+{
+  "project_info": {
+    "project_number": "715181243685",
+    "firebase_url": "https://mykommunity-e1f4e.firebaseio.com",
+    "project_id": "mykommunity-e1f4e",
+    "storage_bucket": "mykommunity-e1f4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715181243685:android:cbb3e42ab0d5a7baab6ecc",
+        "android_client_info": {
+          "package_name": "com.mohrisa.mykommunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715181243685-645sfeu8eqneibr6d43avlk8rvjb54s3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohrisa.mykommunity",
+            "certificate_hash": "dfeb47e5f628a663ffc411ec7880829e3a2c4f0d"
+          }
+        },
+        {
+          "client_id": "715181243685-9se6tmmejmtpi5mv6o2uq9ds8g4svt1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohrisa.mykommunity",
+            "certificate_hash": "2262c60ed1693ca370863d7dc6e5be1f4276d723"
+          }
+        },
+        {
+          "client_id": "715181243685-b68ne7t8104qi9rjvgcvrhf37b11oafe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohrisa.mykommunity",
+            "certificate_hash": "33ecbc172bfa64b30ba2c8deafdfa48535810e90"
+          }
+        },
+        {
+          "client_id": "715181243685-ss8sub1bg96gohelocc1vch90vtq6vk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohrisa.mykommunity",
+            "certificate_hash": "73d4dfd61189efe6952c0b7b0c733f2ef13b5be4"
+          }
+        },
+        {
+          "client_id": "715181243685-tovh3mt24oibrma6q4ft0t31ab4mc303.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohrisa.mykommunity",
+            "certificate_hash": "97dde5fdf02e83b64f2f312300c23cd19619bb00"
+          }
+        },
+        {
+          "client_id": "715181243685-sihg1mdhcl34t27r7u1dgi33gu787jq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCeQtxcDmQxm5tmqO5bkhfR6HNAYG1uek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715181243685-sihg1mdhcl34t27r7u1dgi33gu787jq3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715181243685-h33i3k58287go8nu3jceefo7ljhuu47d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mohrisa.newmykommunity",
+                "app_store_id": "1572431710"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715181243685:android:7a5d705b66a7796dab6ecc",
+        "android_client_info": {
+          "package_name": "com.mohrisa.mykommunity_security_guard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715181243685-6j37hivt7pkmngh5e0v1k8dn9estnbg2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohrisa.mykommunity_security_guard",
+            "certificate_hash": "97dde5fdf02e83b64f2f312300c23cd19619bb00"
+          }
+        },
+        {
+          "client_id": "715181243685-sihg1mdhcl34t27r7u1dgi33gu787jq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCeQtxcDmQxm5tmqO5bkhfR6HNAYG1uek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715181243685-sihg1mdhcl34t27r7u1dgi33gu787jq3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "715181243685-h33i3k58287go8nu3jceefo7ljhuu47d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mohrisa.newmykommunity",
+                "app_store_id": "1572431710"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
